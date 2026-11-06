@@ -2,7 +2,7 @@
   <img src="assets/inti-university-seeklogo.png" alt="INTI International University Logo" width="380"/>
   <br><br>
 
-  # 🛡️ Enterprise Software Quality Assurance (SQA) & Configuration Management Framework
+  #  Enterprise Software Quality Assurance (SQA) & Configuration Management Framework
   ### *Theoretical & Empirical Analysis of ISO/IEC 9126, McCall’s Quality Models, IEEE 610.12 Defect Taxonomy, and SCM Lifecycle Governance on Meta Platforms (Facebook) & DigitalConnect Solutions*
 
   ![Scholarship](https://img.shields.io/badge/Scholarship-Fully_Funded_Student_Mobility_Program_(June_2026)-B31B1B?style=for-the-badge)
