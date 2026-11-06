@@ -173,7 +173,7 @@ The table below synthesizes the multi-framework theoretical diagnosis across all
 To demonstrate how software quality attributes (*Maintainability, Scalability, Integrity, Reliability*) are embedded directly into system design, the project models a modular **3-Tier Client-Server Architecture** dividing presentation interfaces, application logic, and persistent data stores:
 
 <div align="center">
-  <img src="assets/System%20Architecture%20Diagram.png" alt="System Architecture Diagram - Facebook Clone 3-Tier Modular Architecture" width="720"/>
+  <img src="System%20Architecture%20Diagram.png" alt="System Architecture Diagram - Facebook Clone 3-Tier Modular Architecture" width="720"/>
   <p><i>Figure 1: Three-Tier Modular Client-Server Architecture for the Proposed Facebook Clone System (Frontend UI Layer, Backend Application Layer, and Database Layer).</i></p>
 </div>
 
